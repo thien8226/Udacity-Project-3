@@ -57,7 +57,7 @@ cd dog-project
 
 	- __Linux__ or __Mac__ (to install with __GPU support__, change `requirements/requirements.txt` to `requirements/requirements-gpu.txt`): 
 	```
-	conda create --name dog-project python=3.5
+	conda create --name dog-project python=3.11
 	source activate dog-project
 	pip install -r requirements/requirements.txt
 	```
@@ -67,7 +67,7 @@ cd dog-project
 	```
 	- __Windows__ (to install with __GPU support__, change `requirements/requirements.txt` to `requirements/requirements-gpu.txt`):  
 	```
-	conda create --name dog-project python=3.5
+	conda create --name dog-project python=3.11
 	activate dog-project
 	pip install -r requirements/requirements.txt
 	```
