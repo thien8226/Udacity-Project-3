@@ -4,6 +4,8 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+Link to medium blog: https://medium.com/@hthientam2402/find-out-which-dog-you-look-like-168c79825b6a
+Link to github: https://github.com/thien8226/Udacity-Project-3
 
 ## Project Overview
 
